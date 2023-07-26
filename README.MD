@@ -1,9 +1,11 @@
 Live hosted link : https://jobs-api-qvry.onrender.com/api-docs/
 
-(NodeJS, Express, JWT, MongoDB, SwaggerUI)
 • Working RESTful API with all the CRUD functionalities
+
 • Authentication implemented using JWT.
-• SwaggerUI API documentation used for user interaction and easy testing of APIs from client side.
+
+• SwaggerUI API documentation used for easy and user interactive API testing.
+
 • Packages like helmet, CORS and API limiter used for improving API security and reliability.
 
 #### Project Setup
