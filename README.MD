@@ -1,4 +1,9 @@
-Live hosted link : https://jobs-api-qvry.onrender.com/api-docs/
+#### Live Link:
+
+https://jobs-api-qvry.onrender.com/api-docs/ (hosted on render)
+{Do wait for 30-40 seconds as its a free tier setup and therefore it restarts the server after every inactive session}
+
+#### Description
 
 • Working RESTful API with all the CRUD functionalities
 
